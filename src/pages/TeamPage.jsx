@@ -14,6 +14,20 @@ const TeamPage = () => {
         { icon: "github", url: "https://github.com/KelySaina" },
       ],
     },
+    {
+      name: "Antsivaniaina Stéphan",
+      role: "SysAdmin - DevOps - Mentor",
+      description:
+        "Antsivaniaina Stéphan has been an inspiring guide since 2020, empowering professionals with his deep knowledge of workplace mentoring and career development strategies. Passionate about fostering growth and building connections, he creates opportunities for mentees to thrive by simplifying complex ideas and encouraging innovative thinking. With a supportive and approachable style, I'm ensures that every mentee feels heard, valued, and equipped to achieve their goals.",
+      photo: "/images/imagesMembers/Stephan.jpeg",
+      socialLinks: [
+        {
+          icon: "linkedin",
+          url: "https://www.linkedin.com/in/antsivaniaina-stephan/",
+        },
+        { icon: "github", url: "https://github.com/Antsivaniaina" },
+      ],
+    },
   ];
 
   return (
